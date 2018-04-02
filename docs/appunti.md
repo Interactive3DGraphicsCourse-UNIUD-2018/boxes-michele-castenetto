@@ -1,0 +1,11 @@
+// var body = document.querySelector('body');
+// body.removeChild(document.querySelector('canvas'));
+// var canvas = document.createElement('canvas');
+// canvas.width = image.width;
+// canvas.height = image.height;
+// var context = canvas.getContext('2d');
+// context.drawImage(image, 0, 0);
+// document.querySelector('body').appendChild(canvas);
+// canvas.style.position = 'absolute';
+// canvas.style.zIndex = 1000;
+// canvas.style.height = '100%';
